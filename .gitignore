@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Vercel
+.vercel
+
+# Node
+node_modules/
+package-lock.json
+
+# Local-only working files
+*.local
+*.draft
+.env
+.env.*
+
+# Build artefacts
+dist/
+build/
