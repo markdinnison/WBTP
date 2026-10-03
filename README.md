@@ -1,6 +1,6 @@
 # WBTP
 
-Public website for Wont Be Told Productions, live at https://wontbetold.com.
+Public website for Wontbetold Productions, live at https://wontbetold.com.
 
 Static HTML, no build step. Hosted on Vercel, deployed automatically from `main`.
 
