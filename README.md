@@ -23,11 +23,11 @@ Static HTML, no build step. Hosted on Vercel, deployed automatically from `main`
 
 ## Contact form
 
-The form posts to Formspree. Replace `YOUR_FORM_ID` in `index.html` with the form ID from the Formspree dashboard.
+The form posts to Formspree. Form ID xljgawao, set in `index.html`.
 
 ## Google Analytics
 
-The GA4 snippet is in the `<head>` of every page. Replace `G-XXXXXXXXXX` (two places per page, five pages) with the Measurement ID from the GA4 property.
+The GA4 snippet is in the `<head>` of every page. Measurement ID G-ZNV0YTB3CR.
 
 ## Launch
 
